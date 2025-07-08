@@ -2,13 +2,14 @@
 order: 1800
 label: Status Codes
 icon: rss
+permalink: /status-codes
 nav:
   badge: NEW|info
 tags: [info]
 ---
 
 # Status Codes
-When interacting with APIs, various HTTP status codes are returned to indicate the outcome of the request. Each code provides specific information about the response. Below is a detailed list of common HTTP status codes, grouped by their categories.
+When interacting with APIs, various HTTP status codes are returned to indicate the outcome of the request. Each code provides specific information about the response. Below is a detailed list of common HTTP status codes can be return by our API service.
 
 ---
 
