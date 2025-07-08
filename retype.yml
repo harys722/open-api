@@ -8,7 +8,7 @@ scheme:
 
 toc:
   label: On this page
-  depth: 2-4  
+  depth: 1-4  
 
 nav:
   mode: stack
@@ -61,7 +61,7 @@ branding:
       background: "#0A5966"
 links:
   - text: Home
-    link: index.md
+    link: https://open-api.js.org/
     icon: home
   - text: Support
     link: https://github.com/harys722/open-api/issues
@@ -104,5 +104,5 @@ footer:
       link: https://github.com/harys722/open-api/issues
       icon: comment-discussion
     - text: FAQ
-      link: faq.md
+      link: https://open-api.js.org/faq
       icon: question
