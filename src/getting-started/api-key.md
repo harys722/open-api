@@ -2,6 +2,7 @@
 order: 2000
 label: API Key
 icon: key
+permalink: /api-key
 tags: [info]
 ---
 
