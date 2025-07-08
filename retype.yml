@@ -1,0 +1,108 @@
+poweredByRetype: true
+
+breadcrumb:
+  home: ":icon-home:"
+
+scheme:
+  mode: system
+
+toc:
+  label: On this page
+  depth: 2-4  
+
+nav:
+  mode: stack
+  icons:
+    mode: pages
+
+theme:
+  base:
+    # Golden sunrise theme
+    base-color: "#B8860B"           # Dark Goldenrod for perfect readability
+    base-bg: "#FFFBF0"              # Ivory silk with golden kiss
+    primary: "#FFD700"              # Pure 24-karat gold - maximum brilliance
+    success: "#ADFF2F"              # Electric lime - vibrant energy
+    danger: "#FF1493"               # Deep pink - bold and striking
+    warning: "#FF6347"              # Tomato - warm and inviting
+    royal: "#8A2BE2"                # Blue violet - regal and mysterious
+    accent: "#FFA500"               # Orange - fiery complement
+    base-link-weight: 600
+    nav-item-text-active-weight: 800
+    image-rounded: 1rem
+
+  dark:
+    # Midnight gold theme
+    base-color: "#FFD700"           # Pure gold - gleaming against darkness
+    base-bg: "#0A0A0A"              # Obsidian black - deepest night
+    primary: "#FFFF00"              # Electric yellow - blazing brilliance
+    success: "#00FF7F"              # Spring green - fresh and alive
+    danger: "#FF0080"               # Hot pink - electrifying contrast
+    warning: "#FF4500"              # Orange red - molten fire
+    royal: "#9370DB"                # Medium purple - mystical depth
+    accent: "#FFA500"               # Orange - liquid amber
+    base-link-weight: 600
+    nav-item-text-active-weight: 800
+    image-rounded: 1rem
+
+# Start in "Pro Mode" trial
+start:
+  pro: true
+
+input: ./src
+output: .retype
+url: harys722.github.io/open-api
+branding:
+  title: Open API
+  logo: /media/logo.png
+  logoAlign: left
+  colors:
+    label:
+      text: "#ffffff"
+      background: "#0A5966"
+links:
+  - text: Home
+    link: index.md
+    icon: home
+  - text: Support
+    link: https://github.com/harys722/open-api/issues
+    icon: comment-discussion
+    target: blank
+  - text: Community
+    link: https://github.com/harys722/open-api/discussions
+    icon: people
+    target: blank
+  - text: GitHub
+    link: https://github.com/harys722/open-api
+    icon: mark-github
+    target: blank
+edit:
+  repo: "https://github.com/harys722/open-api"
+  base: "/src"
+  branch: "main"
+  label: "Edit this page"
+editor:
+  enabled: true
+favicon: /media/logo.png
+generator:
+  recase: all
+markdown:
+  lineBreaks: soft
+meta:
+  title: " | Open API"
+
+snippets:
+  lineNumbers:
+    - js
+    - none
+templating:
+  enabled: true
+  liquid: false
+footer:
+  copyright: "&copy; Copyright 2025 Open API - All Rights Reserved."
+  links:
+    - text: Support
+      link: https://github.com/harys722/open-api/issues
+      icon: comment-discussion
+    - text: FAQ
+      link: faq.md
+      icon: question
