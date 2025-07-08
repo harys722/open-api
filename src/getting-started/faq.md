@@ -2,6 +2,7 @@
 order: 1600
 label: FAQ
 icon: question
+permalink: /faq
 tags: [info]
 ---
 
