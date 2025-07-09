@@ -8,7 +8,7 @@ scheme:
 
 toc:
   label: On this page
-  depth: 1-4  
+  depth: 2-4  
 
 nav:
   mode: stack
@@ -50,7 +50,7 @@ start:
 
 input: ./src
 output: .retype
-url: harys722.github.io/open-api
+url: open-api.js.org
 branding:
   title: Open API
   logo: /media/logo.png
