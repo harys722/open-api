@@ -1,7 +1,6 @@
 ---
 label: Home
 icon: home
-permalink: /
 ---
 # Welcome to Open API
 ![](media/cover.png)
