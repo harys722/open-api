@@ -1,11 +1,12 @@
 ---
 label: Home
 icon: home
+permalink: /
 ---
-# Welcome to Open APIs
+# Welcome to Open API
 ![](media/cover.png)
 
-A free Open APIs service that provides a variety of endpoints you can make use of in your applications.
+A free Open API service that provides a variety of endpoints you can make use of in your applications.
 
 ## Introduction
 Our API provides a variety of endpoints that you can use in your applications. To get started with us, select an endpoint from our documentation and follow the instructions specific to that endpoint.
