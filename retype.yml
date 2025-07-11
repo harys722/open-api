@@ -50,7 +50,7 @@ start:
 
 input: ./src
 output: .retype
-url: open-api.js.org
+url: harys722.github.io
 branding:
   title: Open API
   logo: /media/logo.png
