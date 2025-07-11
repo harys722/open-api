@@ -1,6 +1,5 @@
 <a id="top"></a>
 
-[![Contributors](https://img.shields.io/github/contributors/harys722/open-api?style=for-the-badge)](https://github.com/harys722/open-api/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/harys722/open-api?style=for-the-badge)](https://github.com/harys722/open-api/network/members)
 [![Stargazers](https://img.shields.io/github/stars/harys722/open-api?style=for-the-badge)](https://github.com/harys722/open-api/stargazers)
 [![Pulls](https://img.shields.io/github/issues-pr-raw/harys722/open-api?style=for-the-badge&label=Pull+Requests)](https://github.com/harys722/open-api/pulls)
@@ -21,9 +20,9 @@
     <br />
     ⭐ <a href="https://github.com/harys722/open-api">Star Repository</a>
     &bull;
-    🐛 <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    🐛 <a href="https://github.com/harys722/open-api/issues">Report Bug</a>
     &bull;
-    💡 <a href="https://github.com/harys722/open-api/issues">Submit Suggestions</a>
+    💡 <a href="https://github.com/harys722/open-api/discussions">Submit Suggestions</a>
   </p>
 </div>
 
