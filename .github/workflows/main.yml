@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: retypeapp/action-build@latest
+      - uses: retypeapp/action-build@v3.11
         env:
           RETYPE_KEY: ${{ secrets.RETYPE_KEY }}
 
