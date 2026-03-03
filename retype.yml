@@ -45,12 +45,12 @@ theme:
     image-rounded: 1rem
 
 # Start in "Pro Mode" trial
-start:
-  pro: true
+#start:
+ # pro: true
 
 input: ./src
 output: .retype
-url: harys722.github.io/open-api
+url: harys722.github.io
 branding:
   title: Open API
   logo: /media/logo.png
@@ -98,7 +98,7 @@ templating:
   enabled: true
   liquid: false
 footer:
-  copyright: "&copy; Copyright 2025 Open API - All Rights Reserved."
+  copyright: "&copy; Copyright 2026 Open API - All Rights Reserved."
   links:
     - text: Support
       link: https://github.com/harys722/open-api/issues
