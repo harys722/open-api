@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://harys722.github.io/open-api/sitemap.xml.gz
+Sitemap: https://harys722.github.io/sitemap.xml.gz
